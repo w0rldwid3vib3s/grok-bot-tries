@@ -1,0 +1,51 @@
+Grok Bot Tries — URL pack. Do not use a zip.
+Post one per day, in order.
+
+1. 01-goal
+file: https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/01-goal.mp4
+cdn: https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/01-goal.mp4
+thumb: https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/01-goal.jpg
+bytes: 825718
+x: Grok Bot scored. The net is still processing it. /  / What sport should he try next? One word. /  / Follow for the next clip.
+yt_title: Grok Bot Scores a Goal in 6 Seconds
+
+2. 02-coffee
+file: https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/02-coffee.mp4
+cdn: https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/02-coffee.mp4
+thumb: https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/02-coffee.jpg
+bytes: 222109
+x: Grok Bot before coffee vs after coffee. /  / Tag the friend who is still on frame one. /  / Follow if you want tomorrow's attempt.
+yt_title: Grok Bot Before Coffee vs After Coffee
+
+3. 03-skate
+file: https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/03-skate.mp4
+cdn: https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/03-skate.mp4
+thumb: https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/03-skate.jpg
+bytes: 694536
+x: No feet. Still landed the ollie. /  / Should the next trick be harder? Reply yes or no. /  / Follow for the next one.
+yt_title: Grok Bot Lands an Ollie
+
+4. 04-pancake
+file: https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/04-pancake.mp4
+cdn: https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/04-pancake.mp4
+thumb: https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/04-pancake.jpg
+bytes: 381628
+x: Grok Bot flipped it. Barely. /  / Comment the next meal. Wrong answers only. /  / Follow for the next attempt.
+yt_title: Grok Bot Tries to Flip a Pancake
+
+5. 05-dance
+file: https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/05-dance.mp4
+cdn: https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/05-dance.mp4
+thumb: https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/05-dance.jpg
+bytes: 822371
+x: Grok Bot found the beat. /  / Reply with a song. The best one becomes the next clip. /  / Follow so you see if he survives it.
+yt_title: Grok Bot Finds the Beat
+
+6. 06-space
+file: https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/06-space.mp4
+cdn: https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/06-space.mp4
+thumb: https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/06-space.jpg
+bytes: 596121
+x: Grok Bot left the chat. /  / Where should he float next? /  / Follow. He comes back tomorrow.
+yt_title: Grok Bot Floats Off Into Space
+

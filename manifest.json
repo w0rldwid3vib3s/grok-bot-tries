@@ -1,0 +1,280 @@
+{
+  "pack_id": "grok-bot-tries-v1.2-urls",
+  "series": "Grok Bot Tries",
+  "created": "2026-09-26",
+  "character": {
+    "name": "Grok Bot",
+    "look": "glossy white sphere with two black oval eyes",
+    "reference": "brand/grok-bot-mascot.jpg"
+  },
+  "bot_instructions": [
+    "Do not download a zip. This pack is individual URLs.",
+    "Post items in order, one per day.",
+    "Download posts[].file_url (or cdn_url if raw fails). Upload that video natively to X and YouTube.",
+    "On X use x.text exactly. On YouTube set title, description, tags, and download thumbnail_url as the custom thumbnail.",
+    "One ask per post. Do not add a second follow line.",
+    "Do not claim these are official xAI ads.",
+    "After posting, record the live URL. Wait gap_after_hours before the next item."
+  ],
+  "handle_token": "{{HANDLE}}",
+  "posts": [
+    {
+      "id": "01-goal",
+      "order": 1,
+      "status": "ready",
+      "activity": "scores a soccer goal",
+      "file": "videos/01-goal.mp4",
+      "thumbnail": "thumbnails/01-goal.jpg",
+      "duration_sec": 6,
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "audio": "Original generated sound is already in the file. On X, replace with a trending sound only if the composer keeps the picture. On YouTube, upload as-is. If a copyright claim appears, strip the audio and re-upload this same file. There is no separate clean copy in this pack.",
+      "audio_vibe": "stadium hit or short sports-highlight sting. Platform-native trending audio only. Do not rip a song.",
+      "on_screen": {
+        "label": "GROK BOT",
+        "hook": "GOAL.",
+        "cta": "WHAT SPORT NEXT?"
+      },
+      "primary_cta": "reply",
+      "gap_after_hours": 22,
+      "x": {
+        "text": "Grok Bot scored. The net is still processing it.\n\nWhat sport should he try next? One word.\n\nFollow for the next clip.",
+        "char_count": 117,
+        "alt_text": "Grok Bot, a glossy white sphere with two black eyes, scores a soccer goal."
+      },
+      "youtube": {
+        "format": "shorts",
+        "title": "Grok Bot Scores a Goal in 6 Seconds",
+        "description": "Grok Bot, the white sphere with the black eyes, scores.\n\nComment the next sport. One word.\n\nNew Grok Bot Tries short every day. Subscribe so the next one shows up.\n\n#GrokBot #Shorts #GrokBotTries",
+        "tags": [
+          "Grok Bot",
+          "Grok Bot Tries",
+          "Shorts",
+          "funny AI",
+          "soccer"
+        ],
+        "pinned_comment": "One word: what sport next?",
+        "thumbnail": "thumbnails/01-goal.jpg"
+      },
+      "bytes": 825718,
+      "file_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/01-goal.mp4",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/01-goal.mp4",
+      "thumbnail_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/01-goal.jpg"
+    },
+    {
+      "id": "02-coffee",
+      "order": 2,
+      "status": "ready",
+      "activity": "wakes up next to coffee",
+      "file": "videos/02-coffee.mp4",
+      "thumbnail": "thumbnails/02-coffee.jpg",
+      "duration_sec": 6,
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "audio": "Original generated sound is already in the file. On X, replace with a trending sound only if the composer keeps the picture. On YouTube, upload as-is. If a copyright claim appears, strip the audio and re-upload this same file. There is no separate clean copy in this pack.",
+      "audio_vibe": "soft morning lo-fi, no lyrics, or a trending morning sound.",
+      "on_screen": {
+        "label": "GROK BOT",
+        "hook": "BEFORE COFFEE",
+        "cta": "AFTER COFFEE"
+      },
+      "primary_cta": "tag",
+      "gap_after_hours": 22,
+      "x": {
+        "text": "Grok Bot before coffee vs after coffee.\n\nTag the friend who is still on frame one.\n\nFollow if you want tomorrow's attempt.",
+        "char_count": 122,
+        "alt_text": "Grok Bot, a glossy white sphere with two black eyes, wakes up next to coffee."
+      },
+      "youtube": {
+        "format": "shorts",
+        "title": "Grok Bot Before Coffee vs After Coffee",
+        "description": "Same sphere. Two moods. Coffee in the middle.\n\nTag a friend who is still on the sleepy frame.\n\nGrok Bot Tries is a new short every day. Subscribe.\n\n#GrokBot #Shorts #Monday",
+        "tags": [
+          "Grok Bot",
+          "coffee",
+          "Monday mood",
+          "Shorts",
+          "Grok Bot Tries"
+        ],
+        "pinned_comment": "Tag the person who is still frame one.",
+        "thumbnail": "thumbnails/02-coffee.jpg"
+      },
+      "bytes": 222109,
+      "file_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/02-coffee.mp4",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/02-coffee.mp4",
+      "thumbnail_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/02-coffee.jpg"
+    },
+    {
+      "id": "03-skate",
+      "order": 3,
+      "status": "ready",
+      "activity": "ollies a skateboard",
+      "file": "videos/03-skate.mp4",
+      "thumbnail": "thumbnails/03-skate.jpg",
+      "duration_sec": 6,
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "audio": "Original generated sound is already in the file. On X, replace with a trending sound only if the composer keeps the picture. On YouTube, upload as-is. If a copyright claim appears, strip the audio and re-upload this same file. There is no separate clean copy in this pack.",
+      "audio_vibe": "short skate-video beat. Trending audio on X. No copyrighted track on YouTube.",
+      "on_screen": {
+        "label": "GROK BOT",
+        "hook": "NO FEET.",
+        "cta": "STILL LANDED."
+      },
+      "primary_cta": "reply",
+      "gap_after_hours": 22,
+      "x": {
+        "text": "No feet. Still landed the ollie.\n\nShould the next trick be harder? Reply yes or no.\n\nFollow for the next one.",
+        "char_count": 109,
+        "alt_text": "Grok Bot, a glossy white sphere with two black eyes, ollies a skateboard."
+      },
+      "youtube": {
+        "format": "shorts",
+        "title": "Grok Bot Lands an Ollie",
+        "description": "Grok Bot has no feet and still tried a skateboard.\n\nReply yes or no: should the next trick be harder?\n\nSubscribe for the next Grok Bot Tries short.\n\n#GrokBot #Shorts #Skate",
+        "tags": [
+          "Grok Bot",
+          "skateboard",
+          "ollie",
+          "Shorts",
+          "Grok Bot Tries"
+        ],
+        "pinned_comment": "Next trick harder? Yes or no.",
+        "thumbnail": "thumbnails/03-skate.jpg"
+      },
+      "bytes": 694536,
+      "file_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/03-skate.mp4",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/03-skate.mp4",
+      "thumbnail_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/03-skate.jpg"
+    },
+    {
+      "id": "04-pancake",
+      "order": 4,
+      "status": "ready",
+      "activity": "flips a pancake",
+      "file": "videos/04-pancake.mp4",
+      "thumbnail": "thumbnails/04-pancake.jpg",
+      "duration_sec": 6,
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "audio": "Original generated sound is already in the file. On X, replace with a trending sound only if the composer keeps the picture. On YouTube, upload as-is. If a copyright claim appears, strip the audio and re-upload this same file. There is no separate clean copy in this pack.",
+      "audio_vibe": "light playful kitchen sound, or a trending comedy sting.",
+      "on_screen": {
+        "label": "GROK BOT",
+        "hook": "CHEF MODE",
+        "cta": "WHAT MEAL NEXT?"
+      },
+      "primary_cta": "comment",
+      "gap_after_hours": 22,
+      "x": {
+        "text": "Grok Bot flipped it. Barely.\n\nComment the next meal. Wrong answers only.\n\nFollow for the next attempt.",
+        "char_count": 102,
+        "alt_text": "Grok Bot, a glossy white sphere with two black eyes, flips a pancake."
+      },
+      "youtube": {
+        "format": "shorts",
+        "title": "Grok Bot Tries to Flip a Pancake",
+        "description": "Grok Bot took over the kitchen for six seconds.\n\nComment the next meal. Wrong answers only.\n\nSubscribe. He cooks again tomorrow, sort of.\n\n#GrokBot #Shorts #Cooking",
+        "tags": [
+          "Grok Bot",
+          "pancake",
+          "cooking fail",
+          "Shorts",
+          "Grok Bot Tries"
+        ],
+        "pinned_comment": "Next meal. Wrong answers only.",
+        "thumbnail": "thumbnails/04-pancake.jpg"
+      },
+      "bytes": 381628,
+      "file_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/04-pancake.mp4",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/04-pancake.mp4",
+      "thumbnail_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/04-pancake.jpg"
+    },
+    {
+      "id": "05-dance",
+      "order": 5,
+      "status": "ready",
+      "activity": "dances under club lights",
+      "file": "videos/05-dance.mp4",
+      "thumbnail": "thumbnails/05-dance.jpg",
+      "duration_sec": 6,
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "audio": "Original generated sound is already in the file. On X, replace with a trending sound only if the composer keeps the picture. On YouTube, upload as-is. If a copyright claim appears, strip the audio and re-upload this same file. There is no separate clean copy in this pack.",
+      "audio_vibe": "On X, attach a trending dance sound. On YouTube, leave silent or use an original beat you have rights to. Do not upload a commercial song.",
+      "on_screen": {
+        "label": "GROK BOT",
+        "hook": "HE FOUND THE BEAT",
+        "cta": "DROP A SONG"
+      },
+      "primary_cta": "reply",
+      "gap_after_hours": 22,
+      "x": {
+        "text": "Grok Bot found the beat.\n\nReply with a song. The best one becomes the next clip.\n\nFollow so you see if he survives it.",
+        "char_count": 118,
+        "alt_text": "Grok Bot, a glossy white sphere with two black eyes, dances under club lights."
+      },
+      "youtube": {
+        "format": "shorts",
+        "title": "Grok Bot Finds the Beat",
+        "description": "Club lights. One sphere. Questionable rhythm.\n\nComment a song. A good one can become the next short.\n\nSubscribe to Grok Bot Tries.\n\n#GrokBot #Shorts #Dance",
+        "tags": [
+          "Grok Bot",
+          "dance",
+          "Shorts",
+          "Grok Bot Tries"
+        ],
+        "pinned_comment": "Drop a song. Best reply gets the next clip.",
+        "thumbnail": "thumbnails/05-dance.jpg"
+      },
+      "bytes": 822371,
+      "file_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/05-dance.mp4",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/05-dance.mp4",
+      "thumbnail_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/05-dance.jpg"
+    },
+    {
+      "id": "06-space",
+      "order": 6,
+      "status": "ready",
+      "activity": "drifts through space",
+      "file": "videos/06-space.mp4",
+      "thumbnail": "thumbnails/06-space.jpg",
+      "duration_sec": 10,
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "audio": "Original generated sound is already in the file. On X, replace with a trending sound only if the composer keeps the picture. On YouTube, upload as-is. If a copyright claim appears, strip the audio and re-upload this same file. There is no separate clean copy in this pack.",
+      "audio_vibe": "quiet cinematic ambient. No lyrics. Fine as a silent wide shot too.",
+      "on_screen": {
+        "label": "GROK BOT",
+        "hook": "OUT OF OFFICE",
+        "cta": "WHERE NEXT?"
+      },
+      "primary_cta": "reply",
+      "gap_after_hours": 22,
+      "x": {
+        "text": "Grok Bot left the chat.\n\nWhere should he float next?\n\nFollow. He comes back tomorrow.",
+        "char_count": 85,
+        "alt_text": "Grok Bot, a glossy white sphere with two black eyes, drifts through space."
+      },
+      "youtube": {
+        "format": "wide",
+        "title": "Grok Bot Floats Off Into Space",
+        "description": "Wide shot. Grok Bot clocks out.\n\nComment a place. That is the next destination.\n\nSubscribe for the daily Grok Bot Tries short. Most are vertical. This one is the wide one.\n\n#GrokBot #GrokBotTries",
+        "tags": [
+          "Grok Bot",
+          "space",
+          "Grok Bot Tries",
+          "cinematic"
+        ],
+        "pinned_comment": "Where should he float next?",
+        "thumbnail": "thumbnails/06-space.jpg"
+      },
+      "bytes": 596121,
+      "file_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/06-space.mp4",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/06-space.mp4",
+      "thumbnail_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/06-space.jpg"
+    }
+  ],
+  "note": "No zip. Download each file URL and upload that file. One post per day.",
+  "delivery": "urls"
+}
