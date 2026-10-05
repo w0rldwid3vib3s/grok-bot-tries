@@ -1,6 +1,6 @@
 # Grok Bot Tries — distribution pack v1.1 slim
 
-Six short clips of Grok Bot (glossy white sphere, black eyes) for X and YouTube.
+Seven short clips of Grok Bot (glossy white sphere, black eyes) for X and YouTube.
 Give this whole folder, or the zip it came in, to the posting bot. The bot should read `manifest.json` first.
 
 ## What to post

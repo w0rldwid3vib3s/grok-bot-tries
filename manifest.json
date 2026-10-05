@@ -1,5 +1,5 @@
 {
-  "pack_id": "grok-bot-tries-v1.2-urls",
+  "pack_id": "grok-bot-tries-v1.3-urls",
   "series": "Grok Bot Tries",
   "created": "2026-09-26",
   "character": {
@@ -273,6 +273,50 @@
       "file_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/06-space.mp4",
       "cdn_url": "https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/06-space.mp4",
       "thumbnail_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/06-space.jpg"
+    },
+    {
+      "id": "07-fire",
+      "order": 7,
+      "status": "posted",
+      "activity": "discovers fire with a caveman",
+      "file": "videos/07-fire.mp4",
+      "thumbnail": "thumbnails/07-fire.jpg",
+      "duration_sec": 6,
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "audio": "Original generated sound is already in the file. On X, replace with a trending sound only if the composer keeps the picture. On YouTube, upload as-is. If a copyright claim appears, strip the audio and re-upload this same file. There is no separate clean copy in this pack.",
+      "audio_vibe": "quiet fire crackle or short prehistoric ambient. Platform-native trending audio only. Do not rip a song.",
+      "on_screen": {
+        "label": "GROK BOT",
+        "hook": "DAY 1 OF HISTORY",
+        "cta": "WHAT DO WE INVENT NEXT?"
+      },
+      "primary_cta": "reply",
+      "gap_after_hours": 22,
+      "x": {
+        "text": "Grok Bot discovered fire. The caveman is still processing it.\n\nWhat should he invent next? One word.",
+        "char_count": 100,
+        "alt_text": "Grok Bot, a glossy white sphere with two black eyes, discovers fire with a caveman."
+      },
+      "youtube": {
+        "format": "shorts",
+        "title": "Grok Bot Discovers Fire",
+        "description": "Grok Bot went back about 400,000 years and fixed the lighting.\n\nComment the next invention. One word.\n\nSubscribe for the next Grok Bot Tries short.\n\nMore from WorldWideVibes: https://w0rldwid3vib3s.github.io/wwv-site/?utm_source=youtube&utm_medium=social&utm_campaign=catalog&utm_content=gbt-07\n\n#GrokBot #Shorts #GrokBotTries",
+        "tags": [
+          "Grok Bot",
+          "Grok Bot Tries",
+          "caveman",
+          "fire",
+          "Shorts",
+          "funny AI"
+        ],
+        "pinned_comment": "One word: what does he invent next? (More WorldWideVibes builds are linked at the top of the channel.)",
+        "thumbnail": "thumbnails/07-fire.jpg"
+      },
+      "bytes": 3918174,
+      "file_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/07-fire.mp4",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/07-fire.mp4",
+      "thumbnail_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/07-fire.jpg"
     }
   ],
   "note": "No zip. Download each file URL and upload that file. One post per day.",
