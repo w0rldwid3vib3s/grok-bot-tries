@@ -361,6 +361,51 @@
       "file_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/08-wheel.mp4",
       "cdn_url": "https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/08-wheel.mp4",
       "thumbnail_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/08-wheel.jpg"
+    },
+    {
+      "id": "09-electricity",
+      "order": 9,
+      "status": "posted",
+      "activity": "discovers electricity with Ben Franklin's kite and then glows like a light bulb",
+      "file": "videos/09-electricity.mp4",
+      "thumbnail": "thumbnails/09-electricity.jpg",
+      "duration_sec": 6,
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "audio": "Original generated sound is already in the file. On X, replace with a trending sound only if the composer keeps the picture. On YouTube, upload as-is. If a copyright claim appears, strip the audio and re-upload this same file. There is no separate clean copy in this pack.",
+      "audio_vibe": "short storm crackle then soft electric hum. Platform-native trending audio only. Do not rip a song.",
+      "on_screen": {
+        "label": "GROK BOT",
+        "hook": "DAY 1 OF ELECTRICITY",
+        "cta": "WHAT DO WE INVENT NEXT?"
+      },
+      "primary_cta": "comment",
+      "gap_after_hours": 24,
+      "x": {
+        "text": "Ben Franklin flew the kite. Grok Bot became the light bulb.\n\nWhat should he invent next? One word.",
+        "char_count": 98,
+        "alt_text": "Grok Bot, a glossy white sphere with two black eyes, sparks from Ben Franklin's kite key and then glows like a light bulb."
+      },
+      "youtube": {
+        "format": "shorts",
+        "title": "Grok Bot Discovers Electricity",
+        "description": "Ben Franklin brought the kite. Grok Bot brought the glow.\n\nComment the next invention. One word.\n\nSubscribe for the next Grok Bot Tries short.\n\nMore from WorldWideVibes: https://w0rldwid3vib3s.github.io/wwv-site/?utm_source=youtube&utm_medium=social&utm_campaign=catalog&utm_content=gbt-09\n\n#GrokBot #Shorts #GrokBotTries",
+        "tags": [
+          "Grok Bot",
+          "Grok Bot Tries",
+          "Ben Franklin",
+          "electricity",
+          "kite",
+          "Shorts",
+          "funny AI"
+        ],
+        "pinned_comment": "One word: what does he invent next? (More WorldWideVibes builds are linked at the top of the channel.)",
+        "thumbnail": "thumbnails/09-electricity.jpg"
+      },
+      "bytes": 2565496,
+      "file_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/09-electricity.mp4",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/09-electricity.mp4",
+      "thumbnail_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/09-electricity.jpg"
     }
   ],
   "note": "No zip. Download each file URL and upload that file. One post per day.",

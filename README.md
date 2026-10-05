@@ -1,6 +1,6 @@
 # Grok Bot Tries — distribution pack v1.1 slim
 
-Eight short clips of Grok Bot (glossy white sphere, black eyes) for X and YouTube.
+Nine short clips of Grok Bot (glossy white sphere, black eyes) for X and YouTube.
 Give this whole folder, or the zip it came in, to the posting bot. The bot should read `manifest.json` first.
 
 ## What to post
@@ -13,6 +13,9 @@ Give this whole folder, or the zip it came in, to the posting bot. The bot shoul
 | 4 | `videos/04-pancake.mp4` | Flips a pancake. 6s, 9:16 | Comment the next meal |
 | 5 | `videos/05-dance.mp4` | Club floor. 6s, 9:16 | Reply with a song |
 | 6 | `videos/06-space.mp4` | Drifts off. 10s, 16:9 | Reply with a destination |
+| 7 | `videos/07-fire.mp4` | Discovers fire. 6s, 9:16 | Comment the next invention |
+| 8 | `videos/08-wheel.mp4` | Becomes the wheel. 6s, 9:16 | Tag who needs one |
+| 9 | `videos/09-electricity.mp4` | Discovers electricity. 6s, 9:16 | Comment next invention |
 
 Post **one a day**, in this order. Do not dump the pack in one hour.
 Vertical files are YouTube Shorts. `06-space` is a normal widescreen upload.
