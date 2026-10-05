@@ -1,5 +1,5 @@
 {
-  "pack_id": "grok-bot-tries-v1.3-urls",
+  "pack_id": "grok-bot-tries-v1.4-urls",
   "series": "Grok Bot Tries",
   "created": "2026-09-26",
   "character": {
@@ -317,6 +317,50 @@
       "file_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/07-fire.mp4",
       "cdn_url": "https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/07-fire.mp4",
       "thumbnail_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/07-fire.jpg"
+    },
+    {
+      "id": "08-wheel",
+      "order": 8,
+      "status": "posted",
+      "activity": "becomes the wheel on a caveman cart",
+      "file": "videos/08-wheel.mp4",
+      "thumbnail": "thumbnails/08-wheel.jpg",
+      "duration_sec": 6,
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "audio": "Original generated sound is already in the file. On X, replace with a trending sound only if the composer keeps the picture. On YouTube, upload as-is. If a copyright claim appears, strip the audio and re-upload this same file. There is no separate clean copy in this pack.",
+      "audio_vibe": "short prehistoric comedy sting or cart-roll rumble. Platform-native trending audio only. Do not rip a song.",
+      "on_screen": {
+        "label": "GROK BOT",
+        "hook": "STONE AGE LOGISTICS",
+        "cta": "TAG WHO NEEDS ONE"
+      },
+      "primary_cta": "tag",
+      "gap_after_hours": 22,
+      "x": {
+        "text": "The cavemen needed a wheel. Grok Bot was already round.\n\nTag the friend who still drags everything by hand.",
+        "char_count": 107,
+        "alt_text": "Grok Bot, a glossy white sphere with two black eyes, becomes the wheel on a caveman cart."
+      },
+      "youtube": {
+        "format": "shorts",
+        "title": "Grok Bot Invents the Wheel (He Was the Wheel)",
+        "description": "The cavemen needed a wheel. Grok Bot is a sphere. You do the math.\n\nTag the friend who still drags everything by hand.\n\nSubscribe for the next Grok Bot Tries short.\n\nMore from WorldWideVibes: https://w0rldwid3vib3s.github.io/wwv-site/?utm_source=youtube&utm_medium=social&utm_campaign=catalog&utm_content=gbt-08\n\n#GrokBot #Shorts #GrokBotTries",
+        "tags": [
+          "Grok Bot",
+          "Grok Bot Tries",
+          "caveman",
+          "wheel",
+          "Shorts",
+          "funny AI"
+        ],
+        "pinned_comment": "Tag the one who still drags everything by hand. (More WorldWideVibes builds are linked at the top of the channel.)",
+        "thumbnail": "thumbnails/08-wheel.jpg"
+      },
+      "bytes": 3147413,
+      "file_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/videos/08-wheel.mp4",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/w0rldwid3vib3s/grok-bot-tries@main/videos/08-wheel.mp4",
+      "thumbnail_url": "https://raw.githubusercontent.com/w0rldwid3vib3s/grok-bot-tries/main/thumbnails/08-wheel.jpg"
     }
   ],
   "note": "No zip. Download each file URL and upload that file. One post per day.",
